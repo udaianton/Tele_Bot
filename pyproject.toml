@@ -1,0 +1,9 @@
+[project]
+name = "sasha-anton"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "github>=1.2.7",
+]
